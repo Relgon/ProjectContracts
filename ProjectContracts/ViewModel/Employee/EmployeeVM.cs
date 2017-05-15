@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace ProjectContracts.ViewModel {
+﻿namespace ProjectContracts.ViewModel {
 	public class EmployeeVM : BaseVM {
 		public string Name { get; set; }
 		public string MiddleName { get; set; }

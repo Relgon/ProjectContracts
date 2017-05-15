@@ -1,7 +1,5 @@
 ﻿using ProjectContracts.Model;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace DAL.Context {
 	public class DbInitializer {

@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 using ProjectContracts.ViewModel;
 using DAL.Context;
 using AutoMapper;
 
-namespace ProjectContracts.Service
-{
+namespace ProjectContracts.Service {
 	public class PositionService :BaseService, IPositionService {
 		public PositionService(EntityDbContext context, IMapper mapper) : base(context, mapper) {
 		}

@@ -54,6 +54,7 @@ namespace ProjectContracts
 
 			app.UseMvc();
 			app.UseStaticFiles();
+			//app.UseDefaultFiles(new DefaultFilesOptions { DefaultFileNames = new List<string> { "index.html" } });
 			DbInitializer.Initialize(context);
         }
     }

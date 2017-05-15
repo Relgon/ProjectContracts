@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace ProjectContracts.Model {
 	public class Employee : BaseModel {
@@ -11,8 +10,8 @@ namespace ProjectContracts.Model {
 		public virtual int PositionId { get; set; }
 		public virtual int AddressId { get; set; }
 
-		public virtual Address Address { get; set; }
-		public virtual Position Position { get; set; }
-		public virtual ICollection<EmployeeProject> EmployeeProjects { get; set; }
+		public Address Address { get; set; }
+		public Position Position { get; set; }
+		public ICollection<EmployeeProject> EmployeeProjects { get; set; }
 	}
 }
