@@ -1,0 +1,13 @@
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.deps.json
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.runtimeconfig.json
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.runtimeconfig.dev.json
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\DAL.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.Model.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\obj\Debug\netcoreapp1.1\ProjectContracts.csprojResolveAssemblyReference.cache
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\obj\Debug\netcoreapp1.1\ProjectContracts.AssemblyInfo.cs
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\bin\Debug\netcoreapp1.1\ProjectContracts.Model.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\obj\Debug\netcoreapp1.1\ProjectContracts.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts\obj\Debug\netcoreapp1.1\ProjectContracts.pdb

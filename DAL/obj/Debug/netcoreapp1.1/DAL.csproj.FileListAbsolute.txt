@@ -1,0 +1,9 @@
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\bin\Debug\netcoreapp1.1\DAL.deps.json
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\bin\Debug\netcoreapp1.1\DAL.dll
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\obj\Debug\netcoreapp1.1\DAL.csprojResolveAssemblyReference.cache
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\obj\Debug\netcoreapp1.1\DAL.AssemblyInfo.cs
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\bin\Debug\netcoreapp1.1\ProjectContracts.Model.dll
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\bin\Debug\netcoreapp1.1\DAL.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\bin\Debug\netcoreapp1.1\ProjectContracts.Model.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\obj\Debug\netcoreapp1.1\DAL.dll
+C:\MyProjects\dotNet-401\ProjectContracts\DAL\obj\Debug\netcoreapp1.1\DAL.pdb

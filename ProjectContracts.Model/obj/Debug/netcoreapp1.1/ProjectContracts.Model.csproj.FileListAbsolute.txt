@@ -1,0 +1,7 @@
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\bin\Debug\netcoreapp1.1\ProjectContracts.Model.deps.json
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\obj\Debug\netcoreapp1.1\ProjectContracts.Model.csprojResolveAssemblyReference.cache
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\obj\Debug\netcoreapp1.1\ProjectContracts.Model.AssemblyInfo.cs
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\bin\Debug\netcoreapp1.1\ProjectContracts.Model.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\bin\Debug\netcoreapp1.1\ProjectContracts.Model.pdb
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\obj\Debug\netcoreapp1.1\ProjectContracts.Model.dll
+C:\MyProjects\dotNet-401\ProjectContracts\ProjectContracts.Model\obj\Debug\netcoreapp1.1\ProjectContracts.Model.pdb
